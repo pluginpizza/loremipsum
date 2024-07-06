@@ -30,7 +30,7 @@ Do you want to report a bug or suggest a feature for Lorem Ipsum? Best to do so 
 
 == Installation ==
 
-To use Lorem Ipsum, there are only two things you need to do: install and activate the plugin. Sort Settings Menu automatically sorts the "Settings" menu in alphabetical order without any extra configuration. Lorem Ipsum also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
+To use Lorem Ipsum, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
 ### Install Lorem Ipsum from within WordPress
 
