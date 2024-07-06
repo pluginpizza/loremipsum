@@ -38,7 +38,7 @@ To use Lorem Ipsum, there are only two things you need to do: install and activa
 1. Search for 'Lorem Ipsum'
 1. Install and activate Lorem Ipsum from your Plugins page
 
-### Install Sort Settings Menu manually
+### Install Lorem Ipsum manually
 
 1. Upload the 'loremipsum' folder to the /wp-content/plugins/ directory
 1. Activate the Lorem Ipsum plugin through the 'Plugins' menu in WordPress
