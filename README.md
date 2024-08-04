@@ -1,3 +1,3 @@
 # Lorem Ipsum WordPress Plugin
 
-The Lorem Ipsum plugin allows users to quickly insert placeholder text into their WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor, users can open an autocompletion options modal to easily add lorem ipsum text or a placeholder image.
+The Lorem Ipsum plugin allows you to quickly insert placeholder text into WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor an autocompletion options modal is opened where you can select lorem ipsum text or a placeholder image.
