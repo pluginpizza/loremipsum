@@ -1,13 +1,13 @@
 <?php
 /**
  * Author URI:        https://plugin.pizza/
- * Author:            Plugin Pizza, Barry Ceelen
+ * Author:            Plugin Pizza
  * Description:       Lorem ipsum autocomplete for the block editor.
  * Domain Path:       /languages
  * License:           GPLv3+
- * Plugin Name:       Lorem Ipsum
+ * Plugin Name:       Lorem Ipsum Block Editor Autocomplete
  * Plugin URI:        https://github.com/pluginpizza/loremipsum/
- * Text Domain:       pluginpizza-loremipsum
+ * Text Domain:       loremipsum
  * Version:           1.0.0
  * Requires PHP:      5.3.0
  * Requires at least: 4.6.0
@@ -342,54 +342,54 @@ function get_variables_script() {
 				'options' => array(
 					array(
 						'id'    => 1,
-						'name'  => __( 'Paragraph', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Paragraph', 'loremipsum' ),
 						'value' => 'paragraph',
 						'icon'  => 'm9.99609 14v-.2251l.00391.0001v6.225h1.5v-14.5h2.5v14.5h1.5v-14.5h3v-1.5h-8.50391c-2.76142 0-5 2.23858-5 5 0 2.7614 2.23858 5 5 5z',
 					),
 					array(
 						'id'    => 1,
-						'name'  => __( 'Sentence', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Sentence', 'loremipsum' ),
 						'value' => 'sentence',
 						'icon'  => 'M12.9 6h-2l-4 11h1.9l1.1-3h4.2l1.1 3h1.9L12.9 6zm-2.5 6.5l1.5-4.9 1.7 4.9h-3.2z',
 					),
 					array(
 						'id'    => 2,
-						'name'  => __( 'Heading 2', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Heading 2', 'loremipsum' ),
 						'value' => 'heading',
 						'level' => 2,
 						'icon'  => 'M9 11.1H5v-4H3v10h2v-4h4v4h2v-10H9v4zm8 4c.5-.4.6-.6 1.1-1.1.4-.4.8-.8 1.2-1.3.3-.4.6-.8.9-1.3.2-.4.3-.8.3-1.3 0-.4-.1-.9-.3-1.3-.2-.4-.4-.7-.8-1-.3-.3-.7-.5-1.2-.6-.5-.2-1-.2-1.5-.2-.4 0-.7 0-1.1.1-.3.1-.7.2-1 .3-.3.1-.6.3-.9.5-.3.2-.6.4-.8.7l1.2 1.2c.3-.3.6-.5 1-.7.4-.2.7-.3 1.2-.3s.9.1 1.3.4c.3.3.5.7.5 1.1 0 .4-.1.8-.4 1.1-.3.5-.6.9-1 1.2-.4.4-1 .9-1.6 1.4-.6.5-1.4 1.1-2.2 1.6v1.5h8v-2H17z',
 					),
 					array(
 						'id'    => 3,
-						'name'  => __( 'Heading 3', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Heading 3', 'loremipsum' ),
 						'value' => 'heading',
 						'level' => 3,
 						'icon'  => 'M9 11H5V7H3v10h2v-4h4v4h2V7H9v4zm11.3 1.7c-.4-.4-1-.7-1.6-.8v-.1c.6-.2 1.1-.5 1.5-.9.3-.4.5-.8.5-1.3 0-.4-.1-.8-.3-1.1-.2-.3-.5-.6-.8-.8-.4-.2-.8-.4-1.2-.5-.6-.1-1.1-.2-1.6-.2-.6 0-1.3.1-1.8.3s-1.1.5-1.6.9l1.2 1.4c.4-.2.7-.4 1.1-.6.3-.2.7-.3 1.1-.3.4 0 .8.1 1.1.3.3.2.4.5.4.8 0 .4-.2.7-.6.9-.7.3-1.5.5-2.2.4v1.6c.5 0 1 0 1.5.1.3.1.7.2 1 .3.2.1.4.2.5.4s.1.4.1.6c0 .3-.2.7-.5.8-.4.2-.9.3-1.4.3s-1-.1-1.4-.3c-.4-.2-.8-.4-1.2-.7L13 15.6c.5.4 1 .8 1.6 1 .7.3 1.5.4 2.3.4.6 0 1.1-.1 1.6-.2.4-.1.9-.2 1.3-.5.4-.2.7-.5.9-.9.2-.4.3-.8.3-1.2 0-.6-.3-1.1-.7-1.5z',
 					),
 					array(
 						'id'    => 4,
-						'name'  => __( 'Heading 4', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Heading 4', 'loremipsum' ),
 						'value' => 'heading',
 						'level' => 4,
 						'icon'  => 'M20 13V7h-3l-4 6v2h5v2h2v-2h1v-2h-1zm-2 0h-2.8L18 9v4zm-9-2H5V7H3v10h2v-4h4v4h2V7H9v4z',
 					),
 					array(
 						'id'          => 3,
-						'name'        => __( 'Image (Landscape)', 'pluginpizza-loremipsum' ),
+						'name'        => __( 'Image (Landscape)', 'loremipsum' ),
 						'value'       => 'image',
 						'orientation' => 'landscape',
 						'icon'        => 'M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 4.5h14c.3 0 .5.2.5.5v8.4l-3-2.9c-.3-.3-.8-.3-1 0L11.9 14 9 12c-.3-.2-.6-.2-.8 0l-3.6 2.6V5c-.1-.3.1-.5.4-.5zm14 15H5c-.3 0-.5-.2-.5-.5v-2.4l4.1-3 3 1.9c.3.2.7.2.9-.1L16 12l3.5 3.4V19c0 .3-.2.5-.5.5z',
 					),
 					array(
 						'id'          => 3,
-						'name'        => __( 'Image (Portrait)', 'pluginpizza-loremipsum' ),
+						'name'        => __( 'Image (Portrait)', 'loremipsum' ),
 						'value'       => 'image',
 						'orientation' => 'portrait',
 						'icon'        => 'M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 4.5h14c.3 0 .5.2.5.5v8.4l-3-2.9c-.3-.3-.8-.3-1 0L11.9 14 9 12c-.3-.2-.6-.2-.8 0l-3.6 2.6V5c-.1-.3.1-.5.4-.5zm14 15H5c-.3 0-.5-.2-.5-.5v-2.4l4.1-3 3 1.9c.3.2.7.2.9-.1L16 12l3.5 3.4V19c0 .3-.2.5-.5.5z',
 					),
 					array(
 						'id'          => 3,
-						'name'        => __( 'Image (Square)', 'pluginpizza-loremipsum' ),
+						'name'        => __( 'Image (Square)', 'loremipsum' ),
 						'value'       => 'image',
 						'orientation' => 'square',
 						'icon'        => 'M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 4.5h14c.3 0 .5.2.5.5v8.4l-3-2.9c-.3-.3-.8-.3-1 0L11.9 14 9 12c-.3-.2-.6-.2-.8 0l-3.6 2.6V5c-.1-.3.1-.5.4-.5zm14 15H5c-.3 0-.5-.2-.5-.5v-2.4l4.1-3 3 1.9c.3.2.7.2.9-.1L16 12l3.5 3.4V19c0 .3-.2.5-.5.5z',
@@ -400,19 +400,19 @@ function get_variables_script() {
 				'options' => array(
 					array(
 						'id'    => 1,
-						'name'  => __( 'Short', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Short', 'loremipsum' ),
 						'value' => 'short',
 						'icon'  => 'M6 5V18.5911L12 13.8473L18 18.5911V5H6Z',
 					),
 					array(
 						'id'    => 2,
-						'name'  => __( 'Medium', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Medium', 'loremipsum' ),
 						'value' => 'medium',
 						'icon'  => 'M6 5V18.5911L12 13.8473L18 18.5911V5H6Z',
 					),
 					array(
 						'id'    => 3,
-						'name'  => __( 'Long', 'pluginpizza-loremipsum' ),
+						'name'  => __( 'Long', 'loremipsum' ),
 						'value' => 'long',
 						'icon'  => 'M6 5V18.5911L12 13.8473L18 18.5911V5H6Z',
 					),
