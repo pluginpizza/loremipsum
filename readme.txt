@@ -2,9 +2,9 @@
 Contributors: pluginpizza, barryceelen
 Tags: autocomplete, placeholder
 Requires at least: 4.6
-Tested up to: 6.5
+Tested up to: 6.6
 Requires PHP: 5.3
-Stable tag: 1.0.2
+Stable tag: 1.0.0
 License: GPLv3+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
