@@ -1,4 +1,4 @@
-=== Lorem Ipsum ===
+=== Lorem Ipsum Autocompleter ===
 Contributors: pluginpizza, barryceelen
 Tags: autocomplete, placeholder
 Requires at least: 4.6
@@ -12,9 +12,9 @@ Insert placeholder text or images via autocompletion.
 
 == Description ==
 
-The Lorem Ipsum plugin allows users to quickly insert placeholder text into their WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor, users can open an autocompletion options modal to easily add lorem ipsum text or a placeholder image.
+The Lorem Ipsum Autocompleter plugin allows users to quickly insert placeholder text into their WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor, an autocompletion options modal is opened to quickly add lorem ipsum text or a placeholder image.
 
-To use Lorem Ipsum, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
+To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
 ### Usage
 
@@ -26,22 +26,22 @@ To use Lorem Ipsum, there are only two things you need to do: install and activa
 
 ### Bug Reports
 
-Do you want to report a bug or suggest a feature for Lorem Ipsum? Best to do so in the [Lorem Ipsum repository on GitHub](https://github.com/pluginpizza/loremipsum/).
+Do you want to report a bug or suggest a feature for Lorem Ipsum Autocompleter? Best to do so in the [Lorem Ipsum Autocompleter repository on GitHub](https://github.com/pluginpizza/loremipsum/).
 
 == Installation ==
 
-To use Lorem Ipsum, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
+To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
-### Install Lorem Ipsum from within WordPress
+### Install Lorem Ipsum Autocompleter from within WordPress
 
 1. Visit the Plugins page within your dashboard and select ‘Add New’
-1. Search for 'Lorem Ipsum'
-1. Install and activate Lorem Ipsum from your Plugins page
+1. Search for 'Lorem Ipsum Autocompleter'
+1. Install and activate Lorem Ipsum Autocompleter from your Plugins page
 
-### Install Lorem Ipsum manually
+### Install Lorem Ipsum Autocompleter manually
 
 1. Upload the 'loremipsum' folder to the /wp-content/plugins/ directory
-1. Activate the Lorem Ipsum plugin through the 'Plugins' menu in WordPress
+1. Activate the Lorem Ipsum Autocompleter plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
 
