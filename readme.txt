@@ -1,6 +1,6 @@
 === Lorem Ipsum Autocompleter ===
 Contributors: pluginpizza, barryceelen
-Tags: autocomplete, placeholder
+Tags: autocomplete, placeholder, lorem ipsum, loremipsum
 Requires at least: 4.6
 Tested up to: 6.6
 Requires PHP: 5.3
@@ -12,7 +12,7 @@ Insert placeholder text or images via autocompletion.
 
 == Description ==
 
-The Lorem Ipsum Autocompleter plugin allows users to quickly insert placeholder text into their WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor, an autocompletion options modal is opened to quickly add lorem ipsum text or a placeholder image.
+The Lorem Ipsum Autocompleter plugin allows you to quickly insert placeholder text into WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor an autocompletion options modal is opened where you can select lorem ipsum text or a placeholder image.
 
 To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
