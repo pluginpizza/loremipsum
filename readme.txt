@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv3+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Insert placeholder text or images via autocompletion.
+Quickly insert lorem ipsum text or placeholder images via autocompletion in the block editor.
 
 == Description ==
 
-The Lorem Ipsum Autocompleter plugin allows you to quickly insert placeholder text into WordPress posts and pages via autocompletion. By simply typing 'lorem' in the block editor an autocompletion options modal is opened where you can select lorem ipsum text or a placeholder image.
+The Lorem Ipsum Autocompleter plugin allows you to quickly insert lorem ipsum placeholder text or images into WordPress posts and pages via autocompletion. By typing 'lorem' in the block editor an autocompletion options modal is opened where you can select to insert lorem ipsum text or a placeholder image.
 
 To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
