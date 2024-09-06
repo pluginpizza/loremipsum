@@ -1,6 +1,6 @@
 === Lorem Ipsum Autocompleter ===
 Contributors: pluginpizza, barryceelen
-Tags: autocomplete, placeholder, lorem ipsum, loremipsum
+Tags: autocomplete, placeholder, lorem ipsum, dummy text, dummy content
 Requires at least: 4.6
 Tested up to: 6.6
 Requires PHP: 5.3
@@ -8,21 +8,21 @@ Stable tag: 1.0.0
 License: GPLv3+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Quickly insert lorem ipsum text or placeholder images via autocompletion in the block editor.
+Quickly insert lorem ipsum dummy text or placeholder images via autocompletion in the block editor.
 
 == Description ==
 
-The Lorem Ipsum Autocompleter plugin allows you to quickly insert lorem ipsum placeholder text or images into WordPress posts and pages via autocompletion. By typing 'lorem' in the block editor an autocompletion options modal is opened where you can select to insert lorem ipsum text or a placeholder image.
+The Lorem Ipsum Autocompleter plugin allows you to quickly insert lorem ipsum dummy text or placeholder images into WordPress posts and pages via autocompletion. By typing 'lorem' in the block editor an autocompletion options modal is opened where you can select to insert lorem ipsum dummy text or a placeholder image.
 
-To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
+To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert dummy text and placeholder images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
 ### Usage
 
 1. Open the WordPress block editor.
 1. Type 'lorem' in the editor.
 1. An autocompletion options modal will appear.
-1. Select the desired lorem ipsum text option or placeholder image type from the modal.
-1. The chosen placeholder text or image will be inserted into your content.
+1. Select the desired lorem ipsum dummy text option or placeholder image type from the modal.
+1. The chosen dummy text or placeholder image will be inserted into your content.
 
 ### Bug Reports
 
@@ -30,7 +30,7 @@ Do you want to report a bug or suggest a feature for Lorem Ipsum Autocompleter? 
 
 == Installation ==
 
-To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert placeholder text and images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
+To use Lorem Ipsum Autocompleter, there are only two things you need to do: install and activate the plugin. An autocompleter to insert dummy text and placeholder images becomes available in the block editor without any extra configuration. Lorem Ipsum Autocompleter also works great as a [must-use plugin](https://wordpress.org/documentation/article/must-use-plugins/).
 
 ### Install Lorem Ipsum Autocompleter from within WordPress
 
