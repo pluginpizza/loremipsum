@@ -2,7 +2,7 @@
 Contributors: pluginpizza, barryceelen
 Tags: autocomplete, placeholder, lorem ipsum, dummy text, dummy content
 Requires at least: 4.6
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 5.3
 Stable tag: 1.0.0
 License: GPLv3+
