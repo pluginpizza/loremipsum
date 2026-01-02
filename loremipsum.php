@@ -9,7 +9,7 @@
  * Plugin URI:        https://github.com/pluginpizza/loremipsum/
  * Text Domain:       loremipsum
  * Version:           1.0.0
- * Requires PHP:      5.3.0
+ * Requires PHP:      5.3
  * Requires at least: 4.6.0
  * GitHub Plugin URI: pluginpizza/loremipsum
  *
