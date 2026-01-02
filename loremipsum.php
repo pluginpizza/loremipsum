@@ -9,7 +9,7 @@
  * Text Domain:       loremipsum
  * Version:           1.0.0
  * Requires PHP:      5.3
- * Requires at least: 4.6.0
+ * Requires at least: 4.6
  * GitHub Plugin URI: pluginpizza/loremipsum
  *
  * @package PluginPizza\LoremIpsum
