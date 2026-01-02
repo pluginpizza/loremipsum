@@ -22,7 +22,9 @@ To use Lorem Ipsum, there are only two things you need to do: install and activa
 1. Type 'lorem' in the editor.
 1. An autocompletion options modal will appear.
 1. Select the desired lorem ipsum dummy text option or placeholder image type from the modal.
-1. The chosen dummy text or placeholder image will be inserted into your content.
+1. The chosen dummy text or placeholder image will be inserted into the content.
+
+[Try typing the word 'lorem' in a preview site](https://wordpress.org/plugins/loremipsum/?preview=1)
 
 ### Bug Reports
 
