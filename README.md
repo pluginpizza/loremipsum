@@ -1,4 +1,4 @@
-# Lorem Ipsum Dummy Text Autocompleter WordPress Plugin
+# Lorem Ipsum - Block Editor Autocomplete WordPress Plugin
 
 The Lorem Ipsum Autocompleter plugin allows you to quickly insert lorem ipsum dummy text or placeholder images into WordPress posts and pages via autocompletion. By typing 'lorem' in the block editor an autocompletion options modal is opened where you can select to insert lorem ipsum dummy text or a placeholder image.
 
