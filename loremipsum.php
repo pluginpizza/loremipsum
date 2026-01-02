@@ -4,7 +4,7 @@
  * Author:            Plugin Pizza
  * Description:       Lorem ipsum autocomplete for the block editor.
  * License:           GPLv3+
- * Plugin Name:       Lorem Ipsum Block Editor Autocomplete
+ * Plugin Name:       Lorem Ipsum - Block Editor Autocomplete
  * Plugin URI:        https://github.com/pluginpizza/loremipsum/
  * Text Domain:       loremipsum
  * Version:           1.0.0
