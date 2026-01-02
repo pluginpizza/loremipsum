@@ -1,4 +1,4 @@
-=== Lorem Ipsum Autocompleter ===
+=== Lorem Ipsum Block Editor Autocomplete ===
 Contributors: pluginpizza, barryceelen
 Tags: autocomplete, placeholder, lorem ipsum, dummy text, dummy content
 Requires at least: 4.6
