@@ -3,7 +3,6 @@
  * Author URI:        https://plugin.pizza/
  * Author:            Plugin Pizza
  * Description:       Lorem ipsum autocomplete for the block editor.
- * Domain Path:       /languages
  * License:           GPLv3+
  * Plugin Name:       Lorem Ipsum Block Editor Autocomplete
  * Plugin URI:        https://github.com/pluginpizza/loremipsum/
