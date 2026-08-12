@@ -14,4 +14,6 @@ Lorem Ipsum Autocompleter is hosted on the [WordPress plugin directory](https://
 
 ### Composer
 
-Lorem Ipsum Autocompleter can be added as a dependency to your project via the [wpackagist composer repository](https://wpackagist.org/search?q=loremipsum).
+Lorem Ipsum Autocompleter can be added as a dependency to your project via the [wp packages composer repository](https://wp-packages.org/packages/wp-plugin/loremipsum).
+
+`composer require wp-plugin/loremipsum`
