@@ -70,7 +70,6 @@ function register_inline_script() {
  */
 function the_inline_script() {
 	?>
-	<script>
 	( function () {
 
 		let iterations = {
@@ -258,7 +257,6 @@ function the_inline_script() {
 			11
 		);
 	} )();
-	</script>
 	<?php
 }
 
@@ -428,7 +426,7 @@ function get_variables_script() {
 	$vars = apply_filters( 'pluginpizza_loremipsum_options', $vars );
 
 	return sprintf(
-		'<script>const PluginPizzaLoremIpsum = %s;</script>',
+		'const PluginPizzaLoremIpsum = %s;',
 		wp_json_encode( (array) $vars )
 	);
 }

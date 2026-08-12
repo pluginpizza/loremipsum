@@ -4,7 +4,7 @@ Tags: autocomplete, placeholder, lorem ipsum, dummy text, dummy content
 Requires at least: 4.6
 Tested up to: 7.0
 Requires PHP: 5.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -46,6 +46,11 @@ To use Lorem Ipsum, there are only two things you need to do: install and activa
 1. Activate the Lorem Ipsum plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 1.0.1 =
+Release Date: August 13, 2026
+
+- Do not pass <script> tags to wp_add_inline_script().
 
 = 1.0.0 =
 Release Date: July 3, 2024
